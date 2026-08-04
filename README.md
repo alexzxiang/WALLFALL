@@ -6,7 +6,7 @@ Draft units, hold four lanes at once, and survive the moment the walls drop.
 Teamfight Tactics meets Bedwars: every lane mines a different resource, every
 anchor you crush starves your opponent, and every fight you skip is gold you kept.
 
-**▶ Play in your browser:** *(itch.io link coming soon)*
+**▶ Play in your browser:** [alexxiang.itch.io/wallfall](https://alexxiang.itch.io/wallfall)
 
 ---
 
@@ -76,6 +76,7 @@ tool regenerates the runtime bundle. WebGL builds ship via
 ## Credits
 
 All third-party asset attributions live in [CREDITS.md](CREDITS.md).
-WALLFALL is a free, non-commercial fan-scale project.
+WALLFALL is a free, non-commercial fan-scale project. The code and design docs
+in this repo are [MIT-licensed](LICENSE); the assets are not (and aren't included).
 
 Game design & programming: **Alex Xiang**.
